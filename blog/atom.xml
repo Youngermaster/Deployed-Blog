@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.jmyounghoyos.com/blog</id>
+    <title>Juan Manuel Young Hoyos Blog</title>
+    <updated>2022-07-10T21:18:27.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.jmyounghoyos.com/blog"/>
+    <subtitle>Juan Manuel Young Hoyos Blog</subtitle>
+    <icon>https://blog.jmyounghoyos.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>first-blog-post</id>
+        <link href="https://blog.jmyounghoyos.com/blog/first-blog-post"/>
+        <updated>2022-07-10T21:18:27.000Z</updated>
+        <summary type="html"><![CDATA[This is my first test with Docusaurus blog template. Right now there is NO more content. Later on I'll be posting more stuff.]]></summary>
+        <content type="html"><![CDATA[<p>This is my first test with Docusaurus blog template. <strong>Right now</strong> there is <strong>NO</strong> more content. Later on I'll be posting more stuff.</p><p>😃</p>]]></content>
+        <author>
+            <name>Juan Manuel Young Hoyos</name>
+            <uri>https://github.com/Youngermaster</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

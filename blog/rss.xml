@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Juan Manuel Young Hoyos Blog</title>
+        <link>https://blog.jmyounghoyos.com/blog</link>
+        <description>Juan Manuel Young Hoyos Blog</description>
+        <lastBuildDate>Sun, 10 Jul 2022 21:18:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://blog.jmyounghoyos.com/blog/first-blog-post</link>
+            <guid>first-blog-post</guid>
+            <pubDate>Sun, 10 Jul 2022 21:18:27 GMT</pubDate>
+            <description><![CDATA[This is my first test with Docusaurus blog template. Right now there is NO more content. Later on I'll be posting more stuff.]]></description>
+            <content:encoded><![CDATA[<p>This is my first test with Docusaurus blog template. <strong>Right now</strong> there is <strong>NO</strong> more content. Later on I'll be posting more stuff.</p><p>😃</p>]]></content:encoded>
+            <category>hola</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>
